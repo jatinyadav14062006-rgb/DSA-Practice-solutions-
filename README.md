@@ -14,4 +14,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 <!---LeetCode Topics End-->
