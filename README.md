@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0867-transpose-matrix](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0867-transpose-matrix/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
