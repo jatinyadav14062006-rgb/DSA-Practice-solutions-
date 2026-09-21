@@ -46,4 +46,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
