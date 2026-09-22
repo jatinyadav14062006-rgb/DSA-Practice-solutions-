@@ -24,6 +24,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0009-palindrome-number/) | Easy |
 | [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Binary Search
