@@ -25,11 +25,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -52,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0125-valid-palindrome/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
