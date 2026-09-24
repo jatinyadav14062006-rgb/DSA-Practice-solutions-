@@ -26,12 +26,14 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/jatinyadav14062006-rgb/DSA-Practice-solutions-/tree/main/0441-arranging-coins/) | Easy |
 ## Simulation
